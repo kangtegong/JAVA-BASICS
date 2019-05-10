@@ -11,6 +11,7 @@ POWER JAVA 2판 요약
 자바 프로그램의 실행과정 : JVM 상에서 동작하므로 OS별 호환성 좋음
 
 **자바의 종류 :** JAVA SE (Standard Edition), JAVA EE (Enterprise Edition), JAVA ME (Micro Edition) 등등
+
 **자바 개발도구 :** JRE (Java Runtime Environment), JDK(Java Development Kit)
 
 ----
